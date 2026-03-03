@@ -46,4 +46,4 @@ Time Complexity
 
 O(√n)
 
-Efficient and interview-ready solution 🚀
+Efficient and interview-ready solution.
