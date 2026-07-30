@@ -1,49 +1,72 @@
-# python_questions
-Structured collection of Python problems focused on strengthening core fundamentals, problem-solving, and clean coding practices. Covers control flow, functions, data structures, number logic, and string manipulation, with emphasis on clarity, simplicity, and disciplined implementation.
+Python Practice Repository
 
+Welcome to my Python Practice Repository!
 
-Prime Number Check – Optimized Approach (O√n)
-<br>
-This implementation checks whether a number is prime using an optimized approach.
-<br>
-Core Logic
-for i in range(2, int(n**0.5) + 1):
-    if n % i == 0:
-        return False
-Explanation
+This repository contains my journey of learning Python—from the basics to advanced concepts. I use this repository to solve programming problems, practice coding, and strengthen my problem-solving skills through consistent learning.
 
-n**0.5 → calculates √n (square root of n)
+About This Repository
 
-We check divisibility only up to √n
+The goal of this repository is to:
 
-If n % i == 0 → number is divisible → Not Prime
+Learn Python programming step by step.
+Solve coding questions regularly.
+Improve logical thinking and problem-solving skills.
+Practice Python syntax and core concepts.
+Track my coding progress over time.
 
-Return immediately (early termination) for efficiency
+This repository includes programs related to:
 
-Why Check Till √n?
+✅ Variables & Data Types
+✅ Input & Output
+✅ Operators
+✅ Conditional Statements (if, elif, else)
+✅ Loops (for, while)
+✅ Pattern Printing
+✅ Functions
+✅ Strings
+✅ Lists
+✅ Tuples
+✅ Dictionaries
+✅ Sets
+✅ File Handling
+✅ Exception Handling
+✅ Object-Oriented Programming (OOP)
+✅ Modules & Packages
+✅ Practice Problems
+✅ Mini Programs
 
-If a number has a factor greater than √n,
-it must also have a corresponding factor smaller than √n.
+(More topics will be added as I continue learning.)
 
-Example:
-36 → (1×36), (2×18), (3×12), (6×6)
-After √36 = 6, factors repeat in reverse.
+Learning Goals
+Build a strong foundation in Python.
+Write clean and readable code.
+Develop efficient problem-solving techniques.
+Prepare for coding interviews and technical assessments.
+Use Python for Data Analysis, Automation, and future AI/ML projects.
 
-So checking beyond √n is unnecessary.
+Progress
 
-Why +1?
+I regularly update this repository with:
 
-range() excludes the last value.
+New practice questions
+Improved solutions
+Notes from my learning
+Better coding techniques
+🚀 Technologies
+Python 3.x
+Visual Studio Code
+Git & GitHub
 
-Example:
+Contributions
 
-range(2, 6) → 2, 3, 4, 5
+This repository is primarily for my personal learning journey. However, suggestions and improvements are always welcome.
 
-So to include √n, we use:
+Support
 
-range(2, int(n**0.5) + 1)
-Time Complexity
+If you find this repository helpful or inspiring, consider giving it a Star.
 
-O(√n)
+Author
 
-Efficient and interview-ready solution.
+Roushan Kumar Mishra
+
+"Consistency beats perfection. Every program I write is one step closer to mastery."
