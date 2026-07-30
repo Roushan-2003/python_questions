@@ -1,72 +1,98 @@
-Python Practice Repository
+#  Python Programming
 
-Welcome to my Python Practice Repository!
+A collection of my Python practice programs, coding exercises, and mini-projects as I learn Python from beginner to advanced.
 
-This repository contains my journey of learning Python—from the basics to advanced concepts. I use this repository to solve programming problems, practice coding, and strengthen my problem-solving skills through consistent learning.
+##  About
 
-About This Repository
+This repository documents my journey of learning Python. It includes practice questions, programming concepts, problem-solving exercises, and mini-projects that help strengthen my programming skills.
 
-The goal of this repository is to:
+I regularly update this repository as I learn new topics and solve more coding challenges.
 
-Learn Python programming step by step.
-Solve coding questions regularly.
-Improve logical thinking and problem-solving skills.
-Practice Python syntax and core concepts.
-Track my coding progress over time.
+##  Tech Stack
 
-This repository includes programs related to:
+- Python 3
+- Visual Studio Code
+- Git
+- GitHub
 
-✅ Variables & Data Types
-✅ Input & Output
-✅ Operators
-✅ Conditional Statements (if, elif, else)
-✅ Loops (for, while)
-✅ Pattern Printing
-✅ Functions
-✅ Strings
-✅ Lists
-✅ Tuples
-✅ Dictionaries
-✅ Sets
-✅ File Handling
-✅ Exception Handling
-✅ Object-Oriented Programming (OOP)
-✅ Modules & Packages
-✅ Practice Problems
-✅ Mini Programs
+##  Repository Structure
 
-(More topics will be added as I continue learning.)
+```
+python/
+├── Basics/
+├── Variables/
+├── Data Types/
+├── Operators/
+├── Conditional Statements/
+├── Loops/
+├── Functions/
+├── Strings/
+├── Lists/
+├── Tuples/
+├── Dictionaries/
+├── Sets/
+├── File Handling/
+├── OOP/
+├── Exception Handling/
+├── Modules/
+├── Practice Questions/
+└── Mini Projects/
+```
 
-Learning Goals
-Build a strong foundation in Python.
-Write clean and readable code.
-Develop efficient problem-solving techniques.
-Prepare for coding interviews and technical assessments.
-Use Python for Data Analysis, Automation, and future AI/ML projects.
+##  What I'm Learning
 
-Progress
+- Python Fundamentals
+- Control Flow
+- Functions
+- Data Structures
+- Object-Oriented Programming (OOP)
+- File Handling
+- Exception Handling
+- Modules & Packages
+- Problem Solving
+- Writing Clean and Efficient Code
 
-I regularly update this repository with:
+##  Getting Started
 
-New practice questions
-Improved solutions
-Notes from my learning
-Better coding techniques
-🚀 Technologies
-Python 3.x
-Visual Studio Code
-Git & GitHub
+Clone the repository:
 
-Contributions
+```bash
+git clone https://github.com/Roushan-2003/python.git
+```
 
-This repository is primarily for my personal learning journey. However, suggestions and improvements are always welcome.
+Navigate to the project folder:
 
-Support
+```bash
+cd python
+```
 
-If you find this repository helpful or inspiring, consider giving it a Star.
+Run any Python file:
 
-Author
+```bash
+python filename.py
+```
 
-Roushan Kumar Mishra
+##  Progress
 
-"Consistency beats perfection. Every program I write is one step closer to mastery."
+- ✅ Variables & Data Types
+- ✅ Operators
+- ✅ Conditional Statements
+- ✅ Loops
+- 🔄 Functions
+- ⏳ Strings
+- ⏳ Data Structures
+- ⏳ File Handling
+- ⏳ OOP
+- ⏳ Mini Projects
+
+##  Contributions
+
+This is a personal learning repository. Suggestions, improvements, and feedback are always welcome.
+
+##  Author
+
+**Roushan Kumar Mishra**
+
+GitHub: https://github.com/Roushan-2003
+
+If you find this repository useful, consider giving it a star!
